@@ -94,26 +94,26 @@ h5. {color:#f79232}Testing Instructions{color}
 1. Heat maps and recordings are setup for the variation in Hotjar.
 2. Open Optimizely in an incognito window.
 3. Go into the Experiment Overview and verify the following:
-* Targeting: 
-* Audiences: 
-* Metrics:
-* Traffic Allocation:
+	* Targeting: 
+	* Audiences: 
+	* Metrics:
+	* Traffic Allocation:
 
 4. Click into the Variations under Manage Experiment:
-* You'll have the Original and Variation(s). 
-** *Note: Make sure that the variations have unique names and not "Variation 1" and "Original"
-* Click into Variation.
-* Click Preview. This will open the page in a new tab.
-* Verify test changes with the listed Variation Requirements.
-* If you want to force a variation on a page, use the Experiment Token at the end of the url.
-** If you're testing different locales, you can: 
-*** use the locale dropdown
-*** load the new page 
-*** add the experiment token
-*** load the page again
-* If you're verifying the Audience experience, use the Preview Tool. 
-** To check if the experiment would display for an excluded audience (Example: window width less than 1280px), turn the Override Mode: Off. 
-*** [Screenshot Example | https://confluence.boats.com/display/RPT/Working+with+Experiments+in+Optimizely#WorkingwithExperimentsinOptimizely-CheckanExperiment]
+	* You'll have the Original and Variation(s). 
+		** *Note: Make sure that the variations have unique names and not "Variation 1" and "Original"
+	* Click into Variation.
+	* Click Preview. This will open the page in a new tab.
+	* Verify test changes with the listed Variation Requirements.
+	* If you want to force a variation on a page, use the Experiment Token at the end of the url.
+		** If you're testing different locales, you can: 
+			*** use the locale dropdown
+			*** load the new page 
+			*** add the experiment token
+			*** load the page again
+	* If you're verifying the Audience experience, use the Preview Tool. 
+		** To check if the experiment would display for an excluded audience (Example: window width less than 1280px), turn the Override Mode: Off. 
+		*** [Screenshot Example]
 
 5. Make sure to click around the experiment page to verify no bugs have been introduced.
 
@@ -124,7 +124,7 @@ h5. {color:#f79232}Special QA Notes{color}
 {panel:title=PUBLISH EXPERIMENT}
 1 Make sure no experiments are currently running on the same page.
 2 Notify stakeholders before publishing experiment to production, if it's a major change to the page structure/functionality.
-3 [*Start Experiment*|https://confluence.boats.com/display/RPT/Working+with+Experiments+in+Optimizely#WorkingwithExperimentsinOptimizely-PublishinganExperiment] in Optimizely.
+3 [*Start Experiment*] in Optimizely.
 4 Make sure metrics are being recorded. You should be able to see results within 30mins-1hr.
 {panel}
 
