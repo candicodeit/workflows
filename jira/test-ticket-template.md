@@ -1,15 +1,20 @@
 {panel:title=DESCRIPTION}
+
 *Portal/Application* 
+
 [Portal/Application | ] - [Page Type | global | homepage | search results | boat details | browse | adv search | choose package | build your ad | review your ad | checkout | confirmation]
 
 *Hypothesis*
+
 I believe that if we reorder the presentation of Sellers’ contact information on boats.com’s boat “product pages” so that it’s easier for consumers to see the phone number, then we will increase the number of phone and email leads. If I am right, consumers will have an easier time finding the contact information they need to reach out to the Seller/Dealer/Broker.
 
 
 *Problem We're Addressing*
+
 The number of phone leads have decreased since the PDP has been redesigned.
 
 *Goal*
+
 Increase phone leads
 
 *References*
