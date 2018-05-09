@@ -122,10 +122,10 @@ h5. {color:#f79232}Special QA Notes{color}
 {panel}
 
 {panel:title=PUBLISH EXPERIMENT}
-# Make sure no experiments are currently running on the same page.
-# Notify stakeholders before publishing experiment to production, if it's a major change to the page structure/functionality.
-# [*Start Experiment*|https://confluence.boats.com/display/RPT/Working+with+Experiments+in+Optimizely#WorkingwithExperimentsinOptimizely-PublishinganExperiment] in Optimizely.
-# Make sure metrics are being recorded. You should be able to see results within 30mins-1hr.
+1 Make sure no experiments are currently running on the same page.
+2 Notify stakeholders before publishing experiment to production, if it's a major change to the page structure/functionality.
+3 [*Start Experiment*|https://confluence.boats.com/display/RPT/Working+with+Experiments+in+Optimizely#WorkingwithExperimentsinOptimizely-PublishinganExperiment] in Optimizely.
+4 Make sure metrics are being recorded. You should be able to see results within 30mins-1hr.
 {panel}
 
 {panel:title=TEST RESULTS} 
