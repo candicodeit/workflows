@@ -5,3 +5,5 @@ I believe that a good workflow is important. If you're able to find a way to bec
 Templates are a great way to efficiently write tasks. They make sure you have all the information you need before you start work. They can also help you create a step-by-step list of items to complete that tasks. 
 
 I am sharing my workflows because it not only helped me, but the team as well to create better product features.
+
+[JIRA workflow](https://github.com/candicodeit/workflows/blob/master/jira/explanation.md)
